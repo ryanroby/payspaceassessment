@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBiws9wnHuWGid5gxTnH7vSJS8c6Ur1gvBFymmS8ZFiKlc0BtNxO1kPYwQm7GXLAwWZxkApYaygp5ggaJKxfiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\PaySpace_Assessment\\PaySpace_Assessment\\PaySpace_Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

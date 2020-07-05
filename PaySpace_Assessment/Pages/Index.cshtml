@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Tax Calculation";
+}
+
+<form method="post">
+    <h5>Please enter your postal code and monthly salary to calculate your tax</h5>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Postal Code</label>
+                <input type="text" name="PostalCode" class="form-control form-control-sm" id="PostlCode" asp-for="PostalCode" />
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Salary (R)</label>
+                <input type="text" name="Salary" class="form-control form-control-sm" id="Salary" asp-for="Salary" />
+            </div>
+        </div>
+        <div class="col-xl-1" style="padding-top: 30px;">
+            <button class="btn btn-success btn-sm" type="submit" value="Calculate" id="submitButton">Calculate</button>
+        </div>
+    </div>
+</form>
+<div classs="table-responsive">
+    @if (Model.taxCalculationsList != null)
+    {
+        <table class="table table table-striped table-hover" style="margin-top: 50px;">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Postal Code</th>
+                    <th>Salary</th>
+                    <th>Tax</th>
+                    <th>Calculation Type</th>
+                    <th>Date Calculated</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.taxCalculationsList)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.PostalCode</td>
+                        <td>R @item.Salary</td>
+                        <td>R @item.Tax</td>
+                        <td>@item.CalculationType</td>
+                        <td>@item.DateCalculated</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <h4 align="center">No calculations have been proccessed</h4>
+    }
+</div>

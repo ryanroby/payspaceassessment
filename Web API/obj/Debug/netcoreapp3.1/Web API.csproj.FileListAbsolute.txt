@@ -1,0 +1,32 @@
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.exe
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.deps.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Web API.pdb
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.csproj.CopyComplete
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.pdb
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.genruntimeconfig.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ryan\Desktop\PaySpace_Assessment\Web API\obj\Debug\netcoreapp3.1\Web API.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\bin\Debug\WebApp.Database.dacpac
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\bin\Debug\WebApp.Database.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\bin\Debug\WebApp.Database.pdb
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\obj\Debug\WebApp.Database.dll
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\obj\Debug\WebApp.Database.pdb
+C:\Users\Ryan\Desktop\PaySpace_Assessment\WebApp.Database\obj\Debug\WebApp.Database.sqlprojAssemblyReference.cache
